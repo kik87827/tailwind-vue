@@ -61,6 +61,16 @@
       </ul>
 
       <div class="w-32 h-32 bg-red-400"></div>
+      <br />
+      <div class="w-32 h-32 bg-red-400 rounded"></div>
+      <br />
+      <div class="w-32 h-32 bg-red-400 rounded-2xl"></div>
+      <br />
+      <div class="w-32 h-32 bg-red-400 rounded-full"></div>
+
+      <div class="text-[17px]">hello world</div>
+      <div class="mt-[17px]">hello world</div>
+      <div class="bg-[#4267b2] text-white">hello world</div>
 
       <p>나눔고딕</p>
       <p class="font-sans text-lg">나눔고딕 폰트가 적용됩니다.</p>
