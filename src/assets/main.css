@@ -1,1 +1,4 @@
-@import './base.css';
+@import "./base.css";
+:root {
+  --tw-font-sans: "Nanum Gothic", sans-serif;
+}
