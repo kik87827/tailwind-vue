@@ -35,13 +35,33 @@
     <div class="text-2xl mt-3">hello world</div>
 
     <div class="p-5">
-      <ul>
-        <li>hello world</li>
+      <ul class="">
+        <li>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
+          dolorem deleniti aut eius quos corporis, eum, autem hic porro minus
+          molestias neque sequi? Esse facilis asperiores exercitationem eveniet
+          nesciunt? In!
+        </li>
         <li>hello world</li>
         <li>hello world</li>
         <li>hello world</li>
         <li>hello world</li>
       </ul>
+      <ul class="list-decimal">
+        <li>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
+          dolorem deleniti aut eius quos corporis, eum, autem hic porro minus
+          molestias neque sequi? Esse facilis asperiores exercitationem eveniet
+          nesciunt? In!
+        </li>
+        <li>hello world</li>
+        <li>hello world</li>
+        <li>hello world</li>
+        <li>hello world</li>
+      </ul>
+
+      <div class="w-32 h-32 bg-red-400"></div>
+
       <p>나눔고딕</p>
       <p class="font-sans text-lg">나눔고딕 폰트가 적용됩니다.</p>
     </div>
